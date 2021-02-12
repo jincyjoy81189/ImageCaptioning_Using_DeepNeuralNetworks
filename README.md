@@ -18,3 +18,7 @@ The accuracy of model and smoothness or command of language
 model learns from image descriptions is tested on different
 datasets. These experiments show that model is frequently giving
 accurate descriptions for an input image.
+
+## 3.Download Flickr8k dataset through the below link:
+
+             https://illinois.edu/fb/sec/1713398
